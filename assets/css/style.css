@@ -1,0 +1,42 @@
+
+main{
+    padding: 30px;
+}
+main h6{
+color:grey;
+}
+.card:hover{
+    transform: scale(1.05);
+ box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+.card-body h5{
+    font-family: 'Roboto';
+}
+ .feature{
+    display:inline-block;
+    text-decoration: line-through;
+    font-size: 20px;
+}
+.feature1{
+    padding-left: 10px;
+    display:inline-block;
+    color:green;
+    font-size: 25px;
+  
+} 
+section{
+    padding: 30px;
+    background-color: #0d6efd;
+}
+section h5{
+    text-align: center;
+   font-family: 'Roboto';
+   color: white;
+   
+}
+.button{
+    text-align: center;
+}
+footer p{
+    font-size: 10px;
+}
